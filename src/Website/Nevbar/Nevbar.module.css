@@ -1,0 +1,62 @@
+.nev ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    background-color: aliceblue;
+    height: 50px;
+}
+
+.nev ul li {
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.contectabout {
+    display: flex;
+    background-color: #eeeeee;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.contectabout .logo img {
+    height: 60px;
+    padding-top: 10px;
+}
+
+.logo span {
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    padding: 20px 20px;
+    color: #DB7D5A;
+
+}
+
+.logo {
+    display: flex;
+}
+
+.info1 {
+    display: flex;
+    margin: 10px;
+}
+
+.info1 img {
+    height: 40px;
+    margin: 10px;
+    padding-top: 5px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info p {
+    border-right: 1px solid #DB7D5A;
+    padding: 5px;
+}
+
+.info p span {
+    font-weight: 700;
+}

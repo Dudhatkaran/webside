@@ -1,0 +1,58 @@
+.project {
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+    height: 170px;
+}
+
+.project p {
+    font-size: 20px;
+    margin-left: 70px;
+    padding-top: 50px;
+}
+
+.images1 {
+    width: 80%;
+    display: flex;
+    margin-left: 10%;
+}
+
+.images2 {
+    width: 80%;
+    display: flex;
+    margin-left: 10%;
+}
+
+.img {
+    width: 25%;
+}
+
+.img img {
+    height: 250px;
+    width: 100%;
+}
+
+.img p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
+.head {
+    height: 150px;
+    background-color: rgb(249, 249, 249);
+}
+
+.head center {
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+.last {
+    background-color: rgb(241, 128, 82);
+    height: 130px;
+}
+
+.last center {
+    padding-top: 40px;
+    font-size: 30px;
+}
